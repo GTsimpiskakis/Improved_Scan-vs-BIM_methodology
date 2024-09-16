@@ -23,6 +23,7 @@ During my master’s thesis at TU/e, I developed an improved Scan-vs-BIM methodo
 13. Divide the transform point cloud model into Segments again.
 
 **Face-vs-Segment Comparison method**
+
 14. Parse BIM model in IFC file format
 15. Adjust the area of faces in case of a Wall-wall face intersection
 16. Comparison procedure between a Face and a Segment
