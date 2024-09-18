@@ -5,7 +5,7 @@ Research: Master's thesis
 ## Introduction
 During my master’s thesis at TU/e, I developed an improved Scan-vs-BIM methodology, inspired by the work of **Jiang et al.** To test my idea, I implemented a Python algorithm. Although civil engineers are often reluctant to engage with coding, I embraced the challenge, and the results of my thesis research can be found here: [link]. Below, I outline the main steps of my research grouped into two big sections **RANSAC-DBSCAN segmentation method**, and **Face-vs-Segment Comparison method**, illustrating the two new methods proposed by this research.
 
-All files related to these 16 scripts can be accessed through the following Google Drive link: [Python files](https://drive.google.com/file/d/17liyb9rAuFWRoGEDUePdV1A6UOhDkNFV/view?usp=sharing)
+**All files related to these 16 scripts can be accessed through the following Google Drive link:** [Python files](https://drive.google.com/file/d/17liyb9rAuFWRoGEDUePdV1A6UOhDkNFV/view?usp=sharing)
 
 ## Table of Contents
 **RANSAC-DBSCAN segmentation method**
